@@ -28,6 +28,53 @@ __pycache__/
 *.pyo
 *.pyd
 
+# Ignore OneDrive and Dropbox
+OneDrive/
+Dropbox/
+
+# Ignore system folders and files
+Application Data/
+Cookies/
+My Documents/
+Local Settings/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+
+# Ignore specific files and directories
+Saved Games/
+Searches/
+Videos/
+SonNetAi/
+Space-Monkeys/
+Tracing/
+USAi/
+Usb.WdfBulkReadPipe
+agent-in-the-loop/
+application/
+checkpoints/
+config/
+
+# Ignore device and system-related files
+WDFDEVICE
+WDFDRIVER
+WDFFILEOBJECT
+WDFQUEUE
+
+# Ignore personal or irrelevant files
+_netrc
+curl -X POST httpsus-south.ml.cloud.txt
+dev/
+
+# Ignore other temporary or unnecessary files
+*.log
+*.bak
+*.swp
+*.tmp
+
 *.sublime-workspace
 *.sublime-project
 
