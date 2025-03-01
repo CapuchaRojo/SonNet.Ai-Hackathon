@@ -16,3 +16,12 @@ This project is organized into the following folders:
 - **assets/**: Contains 3D models and assets for Blender integration.
 - **web_ui/**: Contains the web interface for visualizing Wi-Fi mesh and simulation data.
 - **logs/**: Stores log files for tracking simulation performance and behavior.
+
+on google earth engine
+enter username ee-______
+log in
+download copernicus dem files
+zoom in on lesotho high school
+snap 2 pics one zoomed in all the way
+2nd a few meters up for better wide angle shot
+
