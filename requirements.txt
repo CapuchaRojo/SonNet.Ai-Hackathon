@@ -12,4 +12,6 @@ geopandas==0.9.0     # For geospatial data handling (if using shapefiles or GeoJ
 folium==0.12.0       # For mapping terrain data
 
 # Blender GIS plugin dependencies (for terrain/GeoJSON interaction)
+git add requirements.txt
+
 pyproj==3.1.0        # For projections and coordinate systems
