@@ -1,0 +1,15 @@
+numpy==1.21.0        # For scientific computing (sonar wave, Wi-Fi simulation)
+cryptography==3.4.7  # For data encryption in sonar wave transmission
+requests==2.25.1     # For interacting with external APIs (e.g., OpenCellID)
+pygeoif==0.6.0       # For GeoJSON data handling and manipulation
+
+# Web development (for UI visualization of Wi-Fi Mesh)
+Flask==2.0.1         # For web-based visualization (basic UI)
+python-socketio==5.1.0      # For real-time updates in the web UI
+
+# Geospatial libraries
+geopandas==0.9.0     # For geospatial data handling (if using shapefiles or GeoJSON)
+folium==0.12.0       # For mapping terrain data
+
+# Blender GIS plugin dependencies (for terrain/GeoJSON interaction)
+pyproj==3.1.0        # For projections and coordinate systems

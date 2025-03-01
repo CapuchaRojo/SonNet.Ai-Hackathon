@@ -1,0 +1,2 @@
+# Logs to track data, errors, and performance during development
+# Logs related to Wi-Fi mesh behavior
