@@ -16,6 +16,10 @@ node_modules/
 *.log
 *.bak
 
+# Ignore OneDrive Folders
+OneDrive/
+OneDrive - a Storms is Coming LLC/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -37,6 +41,34 @@ __pycache__/
 *.swo
 *.swn
 
+# Ignore OneDrive and Dropbox Folders
+OneDrive/
+Dropbox/
+
+# Ignore DynamoPro (or similar project folders)
+DynamoPro/
+
+# Ignore System and User-specific files
+NTUSER.DAT
+NTUSER.DAT*
+Favorites/
+Links/
+Music/
+
+# Ignore temporary, hidden, or unneeded system files
+ExAllocatePool2
+ExAllocatePoolWithQuotaTag
+ExAllocatePoolWithTag
+*.blf
+*.regtrans-ms
+*.bak
+*.swp
+*.log
+
+# Ignore other personal or irrelevant files
+"IFRAMIE NEEDEDD  landing page back.txt"
+"K"
+"KO*"
 
 # Distribution / packaging
 .Python
@@ -267,4 +299,35 @@ pipfile.lock
 poetry.lock
 
 .github/workflows/
+
+# Ignore OneDrive and other personal folders
+OneDrive/
+OneDrive/loop.png
+
+# Ignore user directories and system folders
+Saved Games/
+Searches/
+Videos/
+
+# Ignore project directories
+SonNetAi/
+Space-Monkeys/
+Tracing/
+USAi/
+Usb.WdfBulkReadPipe
+agent-in-the-loop/
+application/
+checkpoints/
+config/
+
+# Ignore device and system-related files
+WDFDEVICE
+WDFDRIVER
+WDFFILEOBJECT
+WDFQUEUE
+
+# Ignore files related to configuration or temporary operations
+_netrc
+curl -X POST httpsus-south.ml.cloud.txt
+dev/
 
