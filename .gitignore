@@ -1,3 +1,21 @@
+# Ignore system folders
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+Downloads/
+
+# Ignore environment folders
+.aws/
+.vscode/
+.node_repl_history/
+node_modules/
+.venv/
+
+# Ignore other unnecessary files
+*.log
+*.bak
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
